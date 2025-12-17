@@ -74,8 +74,8 @@ Full wave rectifier with filter:
 ![WhatsApp Image 2025-12-17 at 08 15 14_4f3a7878](https://github.com/user-attachments/assets/b4b51eb6-8f9e-44d2-924f-86ac9aee9fa8)
 
 WAVEFORM:
-![WhatsApp Image 2025-12-17 at 08 15 15_cde4fd08](https://github.com/user-attachments/assets/467e9245-4443-499c-a8d5-e88080b5be72)
 
+<img width="1585" height="832" alt="Screenshot 2025-12-17 083501" src="https://github.com/user-attachments/assets/f68e546d-3d6a-4af5-b963-deee98627185" />
 
 
 Tabular form:
