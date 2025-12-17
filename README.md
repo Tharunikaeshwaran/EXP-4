@@ -71,7 +71,8 @@ TABULAR COLUMN
   </tr>
 </table>
 Full wave rectifier with filter:
-![WhatsApp Image 2025-12-17 at 08 15 14_4f3a7878](https://github.com/user-attachments/assets/b4b51eb6-8f9e-44d2-924f-86ac9aee9fa8)
+<img width="1066" height="831" alt="Screenshot 2025-12-17 083637" src="https://github.com/user-attachments/assets/52dc494d-fe69-487a-9e22-060eefe23df6" />
+
 
 WAVEFORM:
 
