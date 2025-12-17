@@ -74,11 +74,11 @@ Full wave rectifier with filter:
 ![WhatsApp Image 2025-12-17 at 08 15 14_4f3a7878](https://github.com/user-attachments/assets/b4b51eb6-8f9e-44d2-924f-86ac9aee9fa8)
 
 WAVEFORM:
-![WhatsApp Image 2025-12-17 at 08 15 15_d6a12fa7](https://github.com/user-attachments/assets/26c03289-c9b4-413c-aeb9-1ead8977ae88)
+![WhatsApp Image 2025-12-17 at 08 15 15_55c15cba](https://github.com/user-attachments/assets/c7df6ea9-1369-4d67-bfcd-f9135c18ca15)
+
+
 Tabular form:
-
-
-RESULT:<td>50</td>
+<td>50</td>
     <td>20</td>
     <td>50</td>
     <td>5</td>
@@ -86,5 +86,7 @@ RESULT:<td>50</td>
     <td>5 ms, 14 ms</td>
   </tr>
 </table>
+
+RESULT:
 
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
