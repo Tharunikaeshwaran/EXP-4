@@ -44,13 +44,34 @@ Waveform:
 
 
 TABULAR COLUMN
-| *Input Voltage* |              | *Output Voltage* |              |              |
-|------------------|--------------|--------------------|--------------|--------------|
-| Vm (V)           | t (ms)       | *Without Filter* |              | *With Filter* |
-|                  |              | Vm (V)             | t (ms)       | Vm (V) / t (ms) |
-| 100              | 20           | 100                | 10           | 100 V / 5 ms |
-|                  |              |                    |              | 5 V / 25 ms  |
-Rectifier without filter
+<table>
+  <tr>
+    <th colspan="2">Input Voltage</th>
+    <th colspan="4">Output Voltage</th>
+  </tr>
+  <tr>
+    <th rowspan="2">Vm (V)</th>
+    <th rowspan="2">t (ms)</th>
+    <th colspan="2">Without Filter</th>
+    <th colspan="2">With Filter</th>
+  </tr>
+  <tr>
+    <th>Vm (V)</th>
+    <th>t (ms)</th>
+    <th>Vm (V)</th>
+    <th>t (ms)</th>
+  </tr>
+  <tr>
+    <td>100</td>
+    <td>20</td>
+    <td>100</td>
+    <td>10</td>
+    <td>100V, 5V</td>
+    <td>5 ms, 25 ms</td>
+  </tr>
+</table>
+Full wave rectifier with filter:
+
 TABULAR COLUMN
 Rectifier with filter
 
